@@ -1,0 +1,93 @@
+0
+: 
+"Namaste Variations: "
+1
+: 
+"Andhra Pradesh"
+2
+: 
+" - Namaskaram (నమస్కారం)"
+3
+: 
+"Assam"
+4
+: 
+" - Nomoskar (নমস্কাৰ)"
+5
+: 
+"Karnataka - Namaskara (ನಮಸ್ಕಾರ)"
+6
+: 
+"Kerala - Namaskaram (നമസ്ക്കാരം)"
+7
+: 
+"Madhya Pradesh - Namaste (नमस्ते"
+8
+: 
+"Maharashtra - Namaskar (नमस्कार)"
+9
+: 
+"Odisha - Namaskar (ନମସ୍କାର)"
+10
+: 
+"Telangana - Namaskaram (నమస్కారం)"
+11
+: 
+"Tripura - Nomoskar (নমস্কার)"
+12
+: 
+"West Bengal - Nomoshkar (নমস্কার)"
+13
+: 
+"A different take from the usual greetings:"
+14
+: 
+"Arunachal Pradesh - Jai Hind (జై హింద్)"
+15
+: 
+"Bihar - Pranam (प्रणाम)"
+16
+: 
+"Goa - Dev Borem Korum (देव बोरेम कोरुम)"
+17
+: 
+"Gujarat - Jai Shri Krishna (જય શ્રી કૃષ્ણ)"
+18
+: 
+"Haryana - Ram Ram (राम राम)"
+19
+: 
+"Jharkhand - Johar (जोहार)"
+20
+: 
+"Manipur - Khurumjari (खुरुम्जरी)"
+21
+: 
+"Meghalaya - Khublei (खुब्लेई)"
+22
+: 
+"Mizoram"
+23
+: 
+" - Chibai (चिबाई)"
+24
+: 
+"Nagaland - Kuknalim (कुकनालिम)"
+25
+: 
+"Punjab - Sat Sri Akal (ਸਤ ਸ੍ਰੀ ਅਕਾਲ)"
+26
+: 
+"Rajasthan"
+27
+: 
+" - Ram Ram (राम राम)"
+28
+: 
+"Sikkim - Tashi Delek (བཀྲ་ཤིས་བྱེད་པ་)"
+29
+: 
+"Tamil Nadu - Vanakkam (வணக்கம்)"
+30
+: 
+"Uttar Pradesh - Radhe Radhe (राधे राधे)"
