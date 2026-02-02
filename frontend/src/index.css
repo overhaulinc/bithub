@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Bogle&display=swap');
+@import "tailwindcss";
+
+body{
+  /* background: url(/backgroundImg.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "BBH Bogle", sans-serif; */
+
+
+   background:
+    linear-gradient(
+      to bottom,
+      rgba(0,0,0,0.25),
+      rgba(0,0,0,0.55)
+    ),
+    url("/backgroundImg.png");
+  background-size: cover;
+  background-position: center 0%;
+
+}
+
+.navbar{
+  background-color:#7897bf4b;
+}
+
+
+
